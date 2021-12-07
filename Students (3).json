@@ -1,0 +1,383 @@
+{
+  "Students" : 
+      {
+        "0" :
+            {
+            "Avg_Grade" : 72,
+            "Quiz_1" : 12,
+            "Quiz_2" : 88,
+            "Midterm" : 92,   
+            "Final_Grade": 72,
+            "Hair_Color": "Brown",
+            "Glasses": "No",
+            "Gender": "Male"
+            
+            },
+       "1" : 
+          {
+            "Avg_Grade" : 92,
+            "Quiz_1" : 24,
+            "Quiz_2" : 96,
+            "Midterm" : 89,   
+            "Final_Grade": 93,
+            "Hair_Color": "Brown",
+            "Glasses": "No",
+            "Gender": "Male"
+            
+          },
+       "2" : 
+          {
+            "Avg_Grade" : 81,
+            "Quiz_1" : 79,
+            "Quiz_2" : 72,
+            "Midterm" : 95,   
+            "Final_Grade": 92,
+            "Hair_Color": "Black",
+            "Glasses": "Yes",
+            "Gender": "Male"
+            
+          },
+       "3" :
+            {
+            "Avg_Grade" : 96,
+            "Quiz_1" : 99,
+            "Quiz_2" : 100,
+            "Midterm" : 84,   
+            "Final_Grade": 95,
+            "Hair_Color": "Blonde",
+            "Glasses": "Yes",
+            "Gender": "Female"
+            
+            },
+       "4" : 
+          {
+            "Avg_Grade" : 78,
+            "Quiz_1" : 56,
+            "Quiz_2" : 80,
+            "Midterm" : 91,   
+            "Final_Grade": 87,
+            "Hair_Color": "Black",
+            "Glasses": "No",
+            "Gender": "Male"
+            
+          },
+       "5" : 
+          {
+            "Avg_Grade" : 73,
+            "Quiz_1" : 96,
+            "Quiz_2" : 76,
+            "Midterm" : 78,   
+            "Final_Grade": 83,
+            "Hair_Color": "Brown",
+            "Glasses": "No",
+            "Gender": "Female"
+            
+          },
+   
+        "6" :
+            {
+            "Avg_Grade" : 90,
+            "Quiz_1" : 69,
+            "Quiz_2" : 97,
+            "Midterm" : 86,   
+            "Final_Grade": 85,
+            "Hair_Color": "Red",
+            "Glasses": "Yes",
+            "Gender": "Male"
+            
+            },
+       "7" : 
+          {
+            "Avg_Grade" : 77,
+            "Quiz_1" : 71,
+            "Quiz_2" : 75,
+            "Midterm" : 89,   
+            "Final_Grade": 92,
+            "Hair_Color": "Blonde",
+            "Glasses": "No",
+            "Gender": "Female"
+            
+          },
+       "8" : 
+          {
+            "Avg_Grade" : 78,
+            "Quiz_1" : 100,
+            "Quiz_2" : 88,
+            "Midterm" : 94,   
+            "Final_Grade": 92,
+            "Hair_Color": "Brown",
+            "Glasses": "Yes",
+            "Gender": "Female"
+            
+          },
+       "9" :
+            {
+            "Avg_Grade" : 72,
+            "Quiz_1" : 72,
+            "Quiz_2" : 54,
+            "Midterm" : 70,   
+            "Final_Grade": 80,
+            "Hair_Color": "Red",
+            "Glasses": "Yes",
+            "Gender": "Male"
+            
+            },
+       "10" : 
+          {
+            "Avg_Grade" : 87,
+            "Quiz_1" : 82,
+            "Quiz_2" : 88,
+            "Midterm" : 92,   
+            "Final_Grade": 72,
+            "Hair_Color": "Brown",
+            "Glasses": "No",
+            "Gender": "Female"
+            
+          },
+       "11" : 
+          {
+            "Avg_Grade" : 88,
+            "Quiz_1" : 82,
+            "Quiz_2" : 88,
+            "Midterm" : 90,   
+            "Final_Grade": 87,
+            "Hair_Color": "Black",
+            "Glasses": "No",
+            "Gender": "Male"
+            
+          },
+       "12" : 
+          {
+            "Avg_Grade" : 79,
+            "Quiz_1" : 79,
+            "Quiz_2" : 82,
+            "Midterm" : 56,   
+            "Final_Grade": 80,
+            "Hair_Color": "Blonde",
+            "Glasses": "Yes",
+            "Gender": "Female"
+            
+          },
+       "13" :
+            {
+            "Avg_Grade" : 71,
+            "Quiz_1" : 66,
+            "Quiz_2" : 85,
+            "Midterm" : 82,   
+            "Final_Grade": 74,
+            "Hair_Color": "Brown",
+            "Glasses": "No",
+            "Gender": "Female"
+            
+            },
+       "14" : 
+          {
+            "Avg_Grade" : 64,
+            "Quiz_1" : 28,
+            "Quiz_2" : 49,
+            "Midterm" : 72,   
+            "Final_Grade": 70,
+            "Hair_Color": "Blonde",
+            "Glasses": "No",
+            "Gender": "Male"
+            
+          },
+       "15" : 
+          {
+            "Avg_Grade" :78,
+            "Quiz_1" : 53,
+            "Quiz_2" : 49,
+            "Midterm" : 97,   
+            "Final_Grade": 78,
+            "Hair_Color": "Brown",
+            "Glasses": "Yes",
+            "Gender": "Male"
+            
+          },
+       
+        "16" :
+            {
+            "Avg_Grade" : 74,
+            "Quiz_1" :86,
+            "Quiz_2" : 76,
+            "Midterm" : 79,   
+            "Final_Grade": 83,
+            "Hair_Color": "Red",
+            "Glasses": "No",
+            "Gender": "Male"
+            
+            },
+       "17" : 
+          {
+            "Avg_Grade" : 85,
+            "Quiz_1" : 63,
+            "Quiz_2" : 59,
+            "Midterm" : 95,   
+            "Final_Grade": 75,
+            "Hair_Color": "Blonde",
+            "Glasses": "No",
+            "Gender": "Female"
+            
+          },
+       "18" : 
+          {
+            "Avg_Grade" : 68,
+            "Quiz_1" : 67,
+            "Quiz_2" : 49,
+            "Midterm" : 67,   
+            "Final_Grade": 79,
+            "Hair_Color": "Black",
+            "Glasses": "Yes",
+            "Gender": "Male"
+            
+          },
+       "19" :
+            {
+            "Avg_Grade" : 73,
+            "Quiz_1" : 85,
+            "Quiz_2" : 68,
+            "Midterm" : 82,   
+            "Final_Grade": 73,
+            "Hair_Color": "Brown",
+            "Glasses": "No",
+            "Gender": "Female"
+            
+            },
+       "20" : 
+          {
+            "Avg_Grade" : 68,
+            "Quiz_1" : 37,
+            "Quiz_2" : 85,
+            "Midterm" : 72,   
+            "Final_Grade": 62,
+            "Hair_Color": "Red",
+            "Glasses": "No",
+            "Gender": "Male"
+            
+          },
+       "21" : 
+          {
+            "Avg_Grade" : 84,
+            "Quiz_1" : 63,
+            "Quiz_2" : 47,
+            "Midterm" : 58,   
+            "Final_Grade": 84,
+            "Hair_Color": "Brown",
+            "Glasses": "Yes",
+            "Gender": "Female"
+            
+          },
+       "22" : 
+          {
+            "Avg_Grade" : 68,
+            "Quiz_1" : 75,
+            "Quiz_2" : 84,
+            "Midterm" : 63,   
+            "Final_Grade": 84,
+            "Hair_Color": "Blonde",
+            "Glasses": "Yes",
+            "Gender": "Female"
+            
+          },
+       "23" :
+            {
+            "Avg_Grade" : 63,
+            "Quiz_1" : 57,
+            "Quiz_2" : 25,
+            "Midterm" : 56,   
+            "Final_Grade": 59,
+            "Hair_Color": "Black",
+            "Glasses": "No",
+            "Gender": "Female"
+            
+            },
+       "24" : 
+          {
+            "Avg_Grade" : 84,
+            "Quiz_1" : 73,
+            "Quiz_2" : 25,
+            "Midterm" : 47,   
+            "Final_Grade": 74,
+            "Hair_Color": "Brown",
+            "Glasses": "Yes",
+            "Gender": "Male"
+            
+          },
+       "25" : 
+          {
+            "Avg_Grade" : 83,
+            "Quiz_1" : 47,
+            "Quiz_2" : 84,
+            "Midterm" : 74,   
+            "Final_Grade": 63,
+            "Hair_Color": "Brown",
+            "Glasses": "No",
+            "Gender": "Female"
+            
+          },
+       
+        "26" :
+            {
+            "Avg_Grade" : 93,
+            "Quiz_1" : 36,
+            "Quiz_2" : 84,
+            "Midterm" : 84,   
+            "Final_Grade": 94,
+            "Hair_Color": "Brown",
+            "Glasses": "Yes",
+            "Gender": "Male"
+            
+            },
+       "27" : 
+          {
+            "Avg_Grade" : 84,
+            "Quiz_1" :73,
+            "Quiz_2" : 84,
+            "Midterm" : 73,   
+            "Final_Grade": 85,
+            "Hair_Color": "Blonde",
+            "Glasses": "No",
+            "Gender": "Male"
+            
+          },
+       "28" : 
+          {
+            "Avg_Grade" : 72,
+            "Quiz_1" : 95,
+            "Quiz_2" : 83,
+            "Midterm" : 95,  
+            "Final_Grade": 96,
+            "Hair_Color": "Brown",
+            "Glasses": "Yes",
+            "Gender": "Female"
+            
+          },
+       "29" :
+            {
+            "Avg_Grade" : 93,
+            "Quiz_1" : 73,
+            "Quiz_2" : 74,
+            "Midterm" : 74,   
+            "Final_Grade": 85,
+            "Hair_Color": "Red",
+            "Glasses": "Yes",
+            "Gender": "Female"
+            
+            },
+       "30" : 
+          {
+            "Avg_Grade" :85,
+            "Quiz_1" : 36,
+            "Quiz_2" : 59,
+            "Midterm" : 95,   
+            "Final_Grade": 84,
+            "Hair_Color": "Blonde",
+            "Glasses": "No",
+            "Gender": "Male"
+            
+          }
+
+      }
+  
+}
+
